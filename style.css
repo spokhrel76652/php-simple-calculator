@@ -1,0 +1,33 @@
+body{
+    background-color: #045256;
+    font-style: italic;
+    color: #0B1516;
+}
+.container{
+    margin : 5% auto;
+    height: 70vh;
+    width: 70%;
+    background-color: #9AB8BA;
+    border-radius: 10px;
+    padding: 55px 10px 5px 20px;
+}
+.container h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+.container input{
+    height: 50px;
+    width: 500px;
+    border-radius: 10px;
+    font-size: larger;
+    font-style: italic;
+}
+.container select{
+    height: 50px;
+    width: 500px;
+    border-radius: 10px;
+    font-style: italic;
+}
+/* .container.answer{
+    font-size: 50px;
+} */
